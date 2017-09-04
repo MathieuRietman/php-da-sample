@@ -49,7 +49,7 @@
             <div class="col-lg-4 col-md-4">
                 <div class="news-panel-title">
                     <div class="news-panel-title-icon"></div>       
-                    <div class="news-panel-title-caption"> News! </div>
+                    <div class="news-panel-title-caption"> News Update </div>
                 </div>
                 <div class="clear_both panel-content"> 
                     <?php echo (isset($news_panel)) ? $news_panel : ''; ?>
